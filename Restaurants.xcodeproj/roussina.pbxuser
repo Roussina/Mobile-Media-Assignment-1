@@ -1,0 +1,155 @@
+// !$*UTF8*$!
+{
+	0E02F6BB14CD10E300C3EAE8 /* Restaurant.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {652, 501}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 125}";
+		};
+	};
+	0E02F6BC14CD10E300C3EAE8 /* Restaurant.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1041, 780}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 998}";
+		};
+	};
+	0EE5A6C614BEB490006BB5E1 /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = FBC9BD7614D767BD00FE9098 /* Restaurants */;
+		activeTarget = 0EE5A6CE14BEB490006BB5E1 /* Restaurants */;
+		codeSenseManager = FBC9BD8714D767E100FE9098 /* Code sense */;
+		executables = (
+			FBC9BD7614D767BD00FE9098 /* Restaurants */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					474,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 349661117;
+			PBXWorkspaceStateSaveDate = 349661117;
+		};
+		perUserProjectItems = {
+			FBC9BD9D14D76BCA00FE9098 /* PBXTextBookmark */ = FBC9BD9D14D76BCA00FE9098 /* PBXTextBookmark */;
+			FBC9BD9E14D76BCA00FE9098 /* PBXTextBookmark */ = FBC9BD9E14D76BCA00FE9098 /* PBXTextBookmark */;
+			FBC9BD9F14D76BCA00FE9098 /* PBXTextBookmark */ = FBC9BD9F14D76BCA00FE9098 /* PBXTextBookmark */;
+			FBC9BDA514D76F0800FE9098 /* PBXTextBookmark */ = FBC9BDA514D76F0800FE9098 /* PBXTextBookmark */;
+		};
+		sourceControlManager = FBC9BD8614D767E100FE9098 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	0EE5A6CE14BEB490006BB5E1 /* Restaurants */ = {
+		activeExec = 0;
+		executables = (
+			FBC9BD7614D767BD00FE9098 /* Restaurants */,
+		);
+	};
+	0EE5A6E214BEB490006BB5E1 /* AppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {603, 263}}";
+			sepNavSelRange = "{139, 0}";
+			sepNavVisRange = "{0, 182}";
+		};
+	};
+	FBC9BD7614D767BD00FE9098 /* Restaurants */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = Restaurants;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	FBC9BD8614D767E100FE9098 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	FBC9BD8714D767E100FE9098 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	FBC9BD9D14D76BCA00FE9098 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 0E02F6BB14CD10E300C3EAE8 /* Restaurant.h */;
+		name = "Restaurant.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 125;
+		vrLoc = 0;
+	};
+	FBC9BD9E14D76BCA00FE9098 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 0EE5A6E214BEB490006BB5E1 /* AppDelegate.h */;
+		name = "AppDelegate.h: 10";
+		rLen = 0;
+		rLoc = 139;
+		rType = 0;
+		vrLen = 182;
+		vrLoc = 0;
+	};
+	FBC9BD9F14D76BCA00FE9098 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 0E02F6BC14CD10E300C3EAE8 /* Restaurant.m */;
+		name = "Restaurant.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 998;
+		vrLoc = 0;
+	};
+	FBC9BDA514D76F0800FE9098 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 0E02F6BC14CD10E300C3EAE8 /* Restaurant.m */;
+		name = "Restaurant.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 998;
+		vrLoc = 0;
+	};
+}
