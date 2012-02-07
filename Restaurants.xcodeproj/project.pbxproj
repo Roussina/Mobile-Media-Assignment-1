@@ -199,7 +199,8 @@
 				0EE5A6E614BEB491006BB5E1 /* en */,
 			);
 			name = MainStoryboard.storyboard;
-			sourceTree = "<group>";
+			path = "../../../../../../Users/roussina/Mobile Media/Mobile-Media-Assignment-1/Restaurants";
+			sourceTree = SDKROOT;
 		};
 /* End PBXVariantGroup section */
 
